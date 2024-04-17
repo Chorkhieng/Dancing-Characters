@@ -1,7 +1,7 @@
 # Dancing Characters
 
 Assignment 4 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
-The purpose of this game is about learning to program in 3D graphics animation and scene hierachy.
+The purpose of this project is about learning to program in 3D graphics animation and scene hierachy.
 
 ## Recommenation
 To ensure this graphic work smoothly, use `Google Chrome` or `Microsoft Edge`
