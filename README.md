@@ -3,7 +3,7 @@
 Assignment 4 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
 The purpose of this project is about learning to program in 3D graphics animation and scene hierachy.
 
-## Recommenation
+## Recommendation
 To ensure this graphic work smoothly, use `Google Chrome` or `Microsoft Edge`
 
 ## Link to Github Page
