@@ -1,6 +1,4 @@
-# Dancing Characters
-
-Assignment 4 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
+# Dancing Characters    
 The purpose of this project is about learning to program in 3D graphics animation and scene hierachy.
 
 ## Recommendation
